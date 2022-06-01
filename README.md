@@ -1,6 +1,7 @@
 <p><a href="https://github.com/hplook233/jntm" target="_blank">github项目地址</a><p>
 <p><h1>鸡你太美视频音频收集</h1></p>
 <p><h2>注：我自行上传的 <i>百度网盘</i> 提取码一律为 <i>1234</i></h2></p>
+<p><h3><a href="https://hplook233.github.io/" target="_blank">主页</a></p>
 <hr>
  <audio controls>
   <source src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/SWIN-S%20-%20%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E.mp3" type="audio/mpeg">
@@ -17,7 +18,7 @@
  <br>
  <p>3.外婆的澎湖鸡</p>
  <p><iframe src="//player.bilibili.com/player.html?aid=895208125&bvid=BV1HP4y1M7C5&cid=562478224&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
- <p><a href="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/%E5%A4%96%E5%A9%86%E5%AE%B6%E7%9A%84%E6%BE%8E%E6%B9%96%E9%B8%A1%E5%AE%8C%E6%95%B4%E7%89%88.flv" target="_blank">点这里下载视频(github)</a> <a href="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/wpjdphjmp3.mp3">mp3下载（github）</a>  <a href="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/wpjdphjgcmp3.mp3">mp3高潮下载（github）</a> <a href="https://pan.baidu.com/s/1J49gvUmOQIPy81bZywRAGA?pwd=1234">mp3下载（百度网盘）</a>  <a href="https://cloud.189.cn/web/share?code=Qn6VJjNfMbau">mp3下载（天翼云盘提取码5hvl）</a></p>
+ <p><a href="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/%E5%A4%96%E5%A9%86%E5%AE%B6%E7%9A%84%E6%BE%8E%E6%B9%96%E9%B8%A1%E5%AE%8C%E6%95%B4%E7%89%88.flv" target="_blank">点这里下载视频(github)</a> <a href="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/wpjdphjmp3.mp3">mp3下载（github）</a>  <a href="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/wpjdphjgcmp3.mp3">mp3高潮下载（github）</a> <a href="https://pan.baidu.com/s/1J49gvUmOQIPy81bZywRAGA?pwd=1234">mp3下载（百度网盘）</a>  <a href="https://cloud.189.cn/web/share?code=Qn6VJjNfMbau" target="_blank">mp3下载（天翼云盘提取码5hvl）</a></p>
   <audio controls>
   <source src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/wpdphjmp3.mp3" type="audio/mpeg">
   <source src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/wpdphjoog.ogg" type="audio/ogg">
