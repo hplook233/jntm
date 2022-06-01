@@ -22,6 +22,12 @@
   <embed height="50" width="100" src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/wpdphjmp3.mp3">
 </audio>
 <br>
-<p>3.火红的萨日鸡</p>
+<p>4.火红的萨日鸡</p>
 <p><iframe src="//player.bilibili.com/player.html?aid=505595296&bvid=BV1eg411c7uN&cid=411678887&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
-<>
+<p><a href="https://media.githubusercontent.com/media/hplook233/bigfile/master/%E3%80%90%E8%94%A1%E5%BE%90%E5%9D%A4%E3%80%91%E2%9A%A1%EF%B8%8F%E6%9D%80%20%E9%B8%A1%20%E9%83%8E%E2%9A%A1%EF%B8%8F.flv" target="_blank">点这里下载视频(github)</a>  <a href="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/%E3%80%90%E8%94%A1%E5%BE%90%E5%9D%A4%E3%80%91%E7%81%AB%E7%BA%A2%E7%9A%84%E8%90%A8%E6%97%A5%E9%B8%A1.mp3" target="_blank">mp3下载（github）</a><a href="https://pan.baidu.com/s/1omqUA_RsIQS9hIRg1kmsWg?pwd=1234" target="_blank">mp3下载（百度网盘提取码1234）</a></p>
+<audio controls>
+  <source src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/%E3%80%90%E8%94%A1%E5%BE%90%E5%9D%A4%E3%80%91%E7%81%AB%E7%BA%A2%E7%9A%84%E8%90%A8%E6%97%A5%E9%B8%A1.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/%E3%80%90%E8%94%A1%E5%BE%90%E5%9D%A4%E3%80%91%E7%81%AB%E7%BA%A2%E7%9A%84%E8%90%A8%E6%97%A5%E9%B8%A1.ogg" type="audio/ogg">
+  <embed height="50" width="100" src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/%E3%80%90%E8%94%A1%E5%BE%90%E5%9D%A4%E3%80%91%E7%81%AB%E7%BA%A2%E7%9A%84%E8%90%A8%E6%97%A5%E9%B8%A1.mp3">
+</audio>
+<br>
