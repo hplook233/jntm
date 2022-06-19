@@ -37,4 +37,4 @@
 </audio>
 <br>
 <strong><span class="page-item_M4MDr pc">第1页</span></strong>
- <a href="https://hplook233.github.io/jntm/shuzhi666.html"><span class="page-item_M4MDr pc">第2页</span></a>
+ <a href="https://hplook233.github.io/jntm/2.html"><span class="page-item_M4MDr pc">第2页</span></a>
