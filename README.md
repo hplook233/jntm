@@ -36,3 +36,5 @@
   <embed height="50" width="100" src="https://raw.githubusercontent.com/hplook233/hplook233.github.io/main/%E3%80%90%E8%94%A1%E5%BE%90%E5%9D%A4%E3%80%91%E2%9A%A1%EF%B8%8F%E6%9D%80%20%E9%B8%A1%20%E9%83%8E%E2%9A%A1%EF%B8%8F.mp3">
 </audio>
 <br>
+<strong><span class="page-item_M4MDr pc">第1页</span></strong>
+ <a href="https://hplook233.github.io/jntm/index.html"><span class="page-item_M4MDr pc">第2页</span></a>
